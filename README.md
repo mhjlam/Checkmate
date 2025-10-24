@@ -46,4 +46,4 @@
 
 ## License
 
-This software is licensed under the [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
