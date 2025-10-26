@@ -10,8 +10,8 @@
     <th>Still image frame</th>
   </tr>
   <tr>
-    <td><img src="img/cam.png" alt="Camera capture" height="240"/></td>
-    <td><img src="img/still.png" alt="Still image frame" height="240"/></td>
+    <td><img src="media/cam.png" alt="Camera capture" height="240"/></td>
+    <td><img src="media/still.png" alt="Still image frame" height="240"/></td>
   </tr>
 </table>
 
