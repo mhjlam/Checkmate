@@ -1,19 +1,24 @@
 # Checkmate
 
-**Checkmate** provides a complete pipeline for camera calibration using a chessboard pattern, with interactive frame selection from camera or image sequences, robust pose estimation, and 3D visualization overlays (axes, cubes, and chessboard labels) on the detected chessboard.
+**Chessboard Camera Calibration**
 
-## Screenshots
+> Maurits Lam  
+> 2025
 
-<table>
-  <tr>
-    <th>Camera capture</th>
-    <th>Still image frame</th>
-  </tr>
-  <tr>
-    <td><img src="media/cam.png" alt="Camera capture" height="240"/></td>
-    <td><img src="media/still.png" alt="Still image frame" height="240"/></td>
-  </tr>
+<table align="center">
+   <tr>
+      <td align="center">
+        <img src="media/cam.png" alt="Camera capture" height="240"/><br/>
+        <em>Camera capture</em>
+      </td>
+      <td align="center">
+        <img src="media/still.png" alt="Still image frame" height="240"/><br/>
+        <em>Still image frame</em>
+      </td>
+   </tr>
 </table>
+
+**Checkmate** provides a complete pipeline for camera calibration using a chessboard pattern, with interactive frame selection from camera or image sequences, robust pose estimation, and 3D visualization overlays (axes, cubes, and chessboard labels) on the detected chessboard.
 
 ## Features
 
